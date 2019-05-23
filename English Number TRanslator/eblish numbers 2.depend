@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522593365 source:c:\users\tudor\desktop\eblish numbers 2\main.cpp
+	<iostream>
+	<string>
+
+1522593871 source:c:\users\tudor\desktop\english number translator\main.cpp
+	<iostream>
+	<string>
+
